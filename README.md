@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<h2>👨‍💻 Detection Engineering Projects:</h2>
-
-🐱MimiKatz Detection 
+ 
 <!--
 **sandw0rmexe/sandw0rmexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
