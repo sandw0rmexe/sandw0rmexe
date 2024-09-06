@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a SOC Engineer with a passion for using Python to automate security tasks. On this GitHub, you'll find a collection of my Python scripts designed to make SOC operations smoother and more efficient.
+
+What You'll Discover:
+Automation Tools: Scripts that help with common SOC tasks, like checking for vulnerabilities and analyzing logs.
+Useful Utilities: Projects that simplify everyday security tasks and enhance threat detection.
+Feel free to explore my work, and if you have any questions or want to connect, just drop me a message!
+
  
 <!--
 **sandw0rmexe/sandw0rmexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
